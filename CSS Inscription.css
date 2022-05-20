@@ -1,0 +1,29 @@
+p
+{
+    color: blue;
+}
+legend
+{
+    color: orange;
+}
+button#quitter
+{
+    color: red;
+}
+button#effacer
+{
+    color: red;
+}
+button#envoyer
+{
+    color: green;
+}
+fieldset#a
+{
+    border-style: dashed;
+    border-color: orange;
+}
+legend#c
+{
+    color: red;
+}
